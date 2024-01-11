@@ -11,7 +11,7 @@ This is a responsive commerce website project that showcases a clothing store. T
 - **HTML**: The structure and layout of the website are built using HTML to ensure proper semantic markup.
 
 - **CSS**: Cascading Style Sheets (CSS) are utilized for styling the website, including the overall design, layout, and responsiveness.
-- 
+ 
 - PHP: PHP is a server-side scripting language used for backend development. It can be used to process form data, interact with databases, handle user authentication, and perform other server-side tasks.
 
 ## Contact
