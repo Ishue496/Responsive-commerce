@@ -1,3 +1,5 @@
+https://ishue496.github.io/Responsive-commerce/  For a quick review of my project
+
 # Responsive Commerce Website - Clothing Store
 
 This is a responsive commerce website project that showcases a clothing store. The website is designed to be accessible on different devices and screen sizes, providing an optimal user experience for customers shopping for clothing items.
